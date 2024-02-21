@@ -1,1 +1,2 @@
 # belajar-kolaborasi
+mecoba squashing
