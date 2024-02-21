@@ -1,3 +1,3 @@
 # belajar-kolaborasi
-mecoba squashing<br>
-belajar squashing
+- coba squashing<br>
+ - belajar squashing
